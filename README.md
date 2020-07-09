@@ -14,3 +14,5 @@
 Replace `VIDEO_ID` with the loom video key found in the **link of the loom video**.  
 ![](https://i.imgur.com/RiqpKDa.png)  
 Here the `VIDEO_ID` is `5e1afc56171b4cf1abb7b1d9efbab33d`  
+
+Make sure that the **source link** is **`.../embed/...`** inststead of `.../share/...`
